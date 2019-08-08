@@ -1,0 +1,26 @@
+.banner {
+  background-image: url("../../images/japan3.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  object-fit: cover;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.container p {
+  color: #B2B3B4;
+  padding-bottom: 16px;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+

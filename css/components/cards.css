@@ -1,0 +1,45 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(230,230,230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+}
+
+.card img {
+  height: 100px;
+}
+
+
+.card-trip-info h4 {
+  margin: 0;
+}
+
+.card-trip p {
+  margin: 0;
+  font-size: 12px;
+}
+
+.card-trip-pricing p{
+  font-size: 12px;
+  margin-left: 300px;
+}
+
+.card-trip-avatar img {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  object-fit: cover;
+  border-radius: 50%;
+  border: white solid;
+  right: 16px;
+  top: -20px;
+}
+
